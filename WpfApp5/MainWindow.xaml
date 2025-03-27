@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="ты вошел" HorizontalAlignment="Left" Margin="348,166,0,0" VerticalAlignment="Top"/>
+        <Button Content="главная" HorizontalAlignment="Left" Margin="109,118,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
